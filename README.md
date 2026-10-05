@@ -99,3 +99,6 @@ The Tableau dashboard provides:
 ## Business Value
 
 The project helps identify the most profitable products, markets, channels, and customer segments. The resulting insights can support strategic decisions in marketing, sales optimization, customer acquisition, and revenue growth.
+
+## Dashboard
+Link [https://public.tableau.com/app/profile/yaryna.rachkovska/viz/FurnitureE-CommercePerformanceAnalytics/SalesAnalytics#1]
